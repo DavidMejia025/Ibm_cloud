@@ -1,0 +1,14 @@
+{
+"CONVERSATION_USERNAME": "",
+"CONVERSATION_PASSWORD": "",
+"WORKSPACE_ID": "",
+"REDIS_URI": "",
+"facebook_verification_token": "",
+"page_access_token": "",
+"vr_api_key": "",
+"vr_classifier_id": "",
+"wds_username": "",
+"wds_password": "",
+"wds_enviroment": "",
+"wds_collection_reviews": ""
+}
